@@ -1,0 +1,19 @@
+/* .button {
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+} */
+
+.first, 
+.second {
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.first {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+
+.second {
+    background-color: hsl(101, 100%, 50%);
+}
